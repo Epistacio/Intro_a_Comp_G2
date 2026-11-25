@@ -9,10 +9,6 @@ App de estudo para a G2 (Aulas 09 a 13): resumo com dicas, 50 questões de marca
 
 O app abre em tela cheia, com ícone próprio. O progresso fica salvo no próprio aparelho.
 
-## Correção das dissertativas
-
-Fora do Claude, a correção é automática, por pontos-chave da resposta esperada. Depois de corrigir, o botão **Copiar para o Claude** copia a pergunta, a resposta esperada e a sua resposta: é só colar no app do Claude para uma correção mais detalhada.
-
 ## Atualizar o app
 
 Ao trocar algum arquivo, abra `sw.js` e mude `revisao-g2-v1` para `revisao-g2-v2` (e assim por diante). Assim o celular baixa a versão nova.
